@@ -1,19 +1,18 @@
 # Brayden Simms
 
-This is a template file to make your own page.
-
-Write about yourself!
-
-Format this page using [MyST Markdown](https://jupyterbook.org/en/stable/content/index.html) syntax.
-
+## Some information about me!
 ```{note}
 My name is Brayden Simms.
 ```
-
 ```{warning}
 I am from PA, near Philly.
 ```
-
 ```{important}
 I am a prospective **_Physics_** major!
 ```
+
+## My Favorite Animal
+I like cats. :)
+
+## Fun Fact
+When I was younger I wanted to be an astronaut so that's why I have interests in astro!
